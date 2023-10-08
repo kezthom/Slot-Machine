@@ -1,0 +1,76 @@
+@import url(https://fonts.google.com/specimen/Luckiest+Guy);
+
+*{
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Luckiest Guy';
+    color: rgb(49, 65, 49);
+}
+/* The Question Mark*/
+.hidden{
+	display: none;
+}
+.question{
+    height:45rem;
+}
+/* Borders and Background*/
+section, div{
+    border: 3px solid  rgb(19, 76, 54);
+}
+body{
+    background-color: rgb(176, 203, 190);
+}
+
+
+/* The Slots Screens */
+.slots,.controls, header{
+    width: 60%;
+    height: 50rem;
+    margin: 1rem 7rem;
+    background-color: whitesmoke;
+    float: left;
+}
+
+.slots >section{
+    width:33.33%;
+    height: 50rem;
+    float: left;
+}
+section>img{
+    width:100%;
+    height: 16rem;
+}
+/* The Controls*/
+.controls{
+    height: 20.5rem;
+}
+.controls >section{
+    width:33.33%;
+    height: 10rem;
+    float: left;
+    background-color: rgb(243, 242, 242);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.controls >section + section +section + section{
+    width:100% ;
+
+}
+#play{
+    width: 100%;
+    height: 10rem;
+    font-weight: 300;
+}
+/*Header*/
+ header{
+    height: 7rem;
+    border: 3px solid rgb(19, 76, 54);
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
