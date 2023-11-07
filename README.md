@@ -1,6 +1,8 @@
 # Slot-Machine
 
 <img width="280" alt="slots" src="https://github.com/kezthom/Slot-Machine/assets/137250400/97c29220-971d-4456-b9aa-136662369ca4">
+
+
 https://github.com/kezthom/Slot-Machine/blob/main/Slot%20Machine/index.html
 
 About:
