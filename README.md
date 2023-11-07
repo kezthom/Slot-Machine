@@ -1,10 +1,10 @@
 # Slot-Machine
 
-Image: <img width="280" alt="slots" src="https://github.com/kezthom/Slot-Machine/assets/137250400/97c29220-971d-4456-b9aa-136662369ca4">
-
+<img width="280" alt="slots" src="https://github.com/kezthom/Slot-Machine/assets/137250400/97c29220-971d-4456-b9aa-136662369ca4">
+https://github.com/kezthom/Slot-Machine/blob/main/Slot%20Machine/index.html
 
 About:
-A fruit-based slot machine. Each play costs 1 credit. If the value of the second line of fruits is the same on all three slot section, the player wins 10 points. The game continues until the user quits or runs out of credit
+A fruit-based slot machine. Each play costs 1 credit. If the value of the second line of fruits is the same on all three slot sections, the player wins 10 points. The game continues until the user quits or runs out of credit
 
 How It's Made:
 
